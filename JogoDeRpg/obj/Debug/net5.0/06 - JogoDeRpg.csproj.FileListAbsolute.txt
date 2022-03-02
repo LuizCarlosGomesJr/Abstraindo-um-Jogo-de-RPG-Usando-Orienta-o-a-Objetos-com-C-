@@ -1,0 +1,16 @@
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\bin\Debug\net5.0\06 - JogoDeRpg.exe
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\bin\Debug\net5.0\06 - JogoDeRpg.deps.json
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\bin\Debug\net5.0\06 - JogoDeRpg.runtimeconfig.json
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\bin\Debug\net5.0\06 - JogoDeRpg.runtimeconfig.dev.json
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\bin\Debug\net5.0\06 - JogoDeRpg.dll
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\bin\Debug\net5.0\ref\06 - JogoDeRpg.dll
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\bin\Debug\net5.0\06 - JogoDeRpg.pdb
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\06 - JogoDeRpg.csproj.AssemblyReference.cache
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\06 - JogoDeRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\06 - JogoDeRpg.AssemblyInfoInputs.cache
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\06 - JogoDeRpg.AssemblyInfo.cs
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\06 - JogoDeRpg.csproj.CoreCompileInputs.cache
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\06 - JogoDeRpg.dll
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\ref\06 - JogoDeRpg.dll
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\06 - JogoDeRpg.pdb
+C:\Users\Luiz.Gomes\Desktop\arquivos\Dio\.NET\06 - JogoDeRpg\obj\Debug\net5.0\06 - JogoDeRpg.genruntimeconfig.cache
